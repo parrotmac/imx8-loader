@@ -1,4 +1,4 @@
-# i.MX8M[M] Coprocessor Flasher
+# i.MX8M[M] Coprocessor Loader
 
 Utility to automatically update boot files on a board such as the [Boundary Devices Nitrogen8M](https://boundarydevices.com/product/nitrogen8m/) or its relatives.
 
